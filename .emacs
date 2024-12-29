@@ -2,7 +2,6 @@
 (scroll-bar-mode -1)
 (menu-bar-mode -1)
 (tool-bar-mode -1)
-(load-theme 'gruber-darker' t)
 (toggle-frame-fullscreen)
 (ido-mode t)
 (which-key-mode t)
